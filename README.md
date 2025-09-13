@@ -75,6 +75,11 @@ Notes for ddtank origin
   4. 橙武
      <img width="1131" height="488" alt="image" src="https://github.com/user-attachments/assets/f0f35485-a31b-4e20-9130-9e5ec77d288e" /><br />
 
+  获得方式：
+  扭蛋机
+  <img width="1182" height="640" alt="image" src="https://github.com/user-attachments/assets/ca5f0898-da54-44f7-9a08-1a6f99e6e53d" />
+  <img width="1471" height="792" alt="image" src="https://github.com/user-attachments/assets/df5e2e82-7240-4fec-bd82-73093f7a2eae" />
+
     
 ### 宠物篇
   宠物星级 => 1星 到 5星
@@ -95,6 +100,13 @@ Notes for ddtank origin
   <img width="1093" height="421" alt="image" src="https://github.com/user-attachments/assets/b82e7469-c17d-4512-840a-b6469b2791b3" />
   <img width="1080" height="433" alt="image" src="https://github.com/user-attachments/assets/57d8b54e-afec-4ece-9177-58e861046227" />
 
+  <img width="425" height="421" alt="image" src="https://github.com/user-attachments/assets/5e628ccf-78b5-48f6-8263-067856df26f9" />
+  <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/5968e0e0-34d2-462b-8541-af7a011f085b" />
+
+  获得方式：
+  扭蛋机
+  <img width="1437" height="796" alt="image" src="https://github.com/user-attachments/assets/749bd2c9-3bd7-4856-816a-06bdc6be00b5" />
+
 
 ### 宝珠篇
   <br />
@@ -112,6 +124,11 @@ Notes for ddtank origin
   
   可以通过开孔器开孔<br />
   <img width="640" height="455" alt="image" src="https://github.com/user-attachments/assets/a5aca31f-d759-4db4-9f3c-b18f63194634" /><br />
+
+  获得方式：
+  扭蛋机
+  <img width="1479" height="790" alt="image" src="https://github.com/user-attachments/assets/24e95c39-fdc8-469a-9c3b-233682e983ac" />
+
 
 
 ### 铁匠铺
